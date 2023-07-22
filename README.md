@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n0vay
-- 👀 I’m interested in robotics and embedded
-- 🌱 I’m currently learning computer engineering
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning a bunch of stuff
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me on mail shantanukumar@nyu.edu
 
