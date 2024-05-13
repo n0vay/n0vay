@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @n0vay
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on anything interesting
 
