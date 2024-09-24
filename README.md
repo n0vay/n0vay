@@ -1,5 +1,10 @@
 <h2 align="center">Hi there 👋, I am n0vay</h2>
 
+<p align="center">
+  <img src="https://github.com/n0vay/n0vay/blob/main/mario.gif" width="500">
+<br>
+
+
 ```typescript
 const me = {
   username:  "n0vay",
